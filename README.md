@@ -1,1 +1,1 @@
-# number.c
+Calculator for minor project 
